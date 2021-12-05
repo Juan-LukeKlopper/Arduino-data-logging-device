@@ -6,12 +6,7 @@ The way this device works is by getting readings off of a DHT11(Digital,Humidity
 
 This parts that are required are:
 
-1 Arduino Uno /n \n
-1 USB 2.0 A to B cable
-1 DHT11 sensor
-1 Capacitive Soil Moisture sensor
-1 Breadboard
-6 male-to-male jumper wires
+1 Arduino Uno, 1 USB 2.0 A to B cable, 1 DHT11 sensor, 1 Capacitive Soil Moisture sensor, 1 Breadboard, and 6 male-to-male jumper wires
 
 needed can be found at some local electronics stores, and can usually be ordered online. 
 Here are links where you can find more information about the components.
